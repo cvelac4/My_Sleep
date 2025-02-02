@@ -1,3 +1,3 @@
 # My_Sleep
 
-This project helps understand how to orginize research information in colomes and find diffrent solutions with the given data about sleep. 
+This project helps us understand how to organize research information in columns and rows. This also finds different ways to modify the given data about sleep. 
